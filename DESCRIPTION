@@ -1,0 +1,16 @@
+Package: FBPoints
+Type: Package
+Title: Fantasy Baseball Points Projector 
+Version: 0.1.0
+Author: Kyle Johnstone
+Description: The premise of this package is to offer a simple mechanism for 
+  calculating a Major League Baseball player's projected fantasy points for the 
+  season. The package pulls player data from the razzball website and uses 
+  ESPN's fantasy baseball rules to calculate points. The purpose of the package 
+  is to gauge players' point potential for baseball fantasy leagues. 
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 3.5)
